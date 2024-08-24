@@ -1,1 +1,2 @@
-console.log("hi first code")
+let a = "hello world!!"
+console.log(a)
